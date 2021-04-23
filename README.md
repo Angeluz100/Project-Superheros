@@ -16,7 +16,7 @@ A simple web app that display Superheros
 
 ![final Result](./imgs/final-touch.png)
 ## Getting started
-[click](https://angeluz100.github.io/Project--1/.) here to get started and see the app online! 
+[click](https://project-superheros.netlify.app/) here to get started and see the app online! 
 
 ## Future Enhancements
 -More information on the superheros
